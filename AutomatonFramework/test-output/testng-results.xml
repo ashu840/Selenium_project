@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-13T10:54:05 IST" name="Default suite" finished-at="2025-04-13T10:54:25 IST" duration-ms="20546">
+    <groups>
+    </groups>
+    <test started-at="2025-04-13T10:54:05 IST" name="Default test" finished-at="2025-04-13T10:54:25 IST" duration-ms="20546">
+      <class name="books.TC_DWS_001_Test">
+        <test-method is-config="true" signature="reportConfiguration()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:04 IST" name="reportConfiguration" finished-at="2025-04-13T10:54:05 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportConfiguration -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:05 IST" name="openBrowser" finished-at="2025-04-13T10:54:14 IST" duration-ms="8538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:14 IST" name="login" finished-at="2025-04-13T10:54:16 IST" duration-ms="2193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnBooks()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:16 IST" name="clickOnBooks" finished-at="2025-04-13T10:54:17 IST" duration-ms="1288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBooks -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:17 IST" name="logout" finished-at="2025-04-13T10:54:20 IST" duration-ms="2820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:20 IST" name="login" finished-at="2025-04-13T10:54:21 IST" duration-ms="1631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnComputer()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:21 IST" name="clickOnComputer" finished-at="2025-04-13T10:54:22 IST" duration-ms="839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnComputer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:22 IST" name="logout" finished-at="2025-04-13T10:54:25 IST" duration-ms="2788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:25 IST" name="closeBrowser" finished-at="2025-04-13T10:54:25 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:books.TC_DWS_001_Test@59474f18]" started-at="2025-04-13T10:54:26 IST" name="reportBackup" finished-at="2025-04-13T10:54:26 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- books.TC_DWS_001_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
