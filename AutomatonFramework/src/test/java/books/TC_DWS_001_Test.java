@@ -22,6 +22,7 @@ public class TC_DWS_001_Test extends BaseClass {
 		book.log(Status.PASS, "Books page is displayed");
 
 	}
+	//computers testing
 @Test
 	public void clickOnComputer() {
 		ExtentTest computer = extReport.createTest("clickOnComputer");
