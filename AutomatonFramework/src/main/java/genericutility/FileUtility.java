@@ -23,6 +23,7 @@ public class FileUtility {
 		FileInputStream fis=new FileInputStream("./src/test/resources/TestData/commondata.properties");
 		Properties pro=new Properties();
 		pro.load(fis);
+		//read data
 		return pro.getProperty(key);
 		
 	}
